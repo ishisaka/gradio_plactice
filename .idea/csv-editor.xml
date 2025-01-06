@@ -17,6 +17,13 @@
             </Attribute>
           </value>
         </entry>
+        <entry key="/chatbot/.gradio/cached_examples/10/log.csv">
+          <value>
+            <Attribute>
+              <option name="separator" value=":" />
+            </Attribute>
+          </value>
+        </entry>
       </map>
     </option>
   </component>
